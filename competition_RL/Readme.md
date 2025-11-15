@@ -5,7 +5,7 @@
 
 
 ## Description
-[link](link)
+
 
 <details>
 <summary>1) Постановка задачи</summary>
@@ -37,7 +37,7 @@
 ---
 
 ## Evaluation
-[link](link)
+
 
 <details>
 <summary>1) Метрика качества</summary>
